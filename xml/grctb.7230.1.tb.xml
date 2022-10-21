@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2018-12-26 15:36:22 UTC</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>Petar Soldo</short>
+      <name>Petar Soldo</name>
+      <address>petar.stjepan.soldo@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/Petar%20Soldo</uri>
+  </annotator>
+   <sentence id="1" document_id="" subdoc="" span="">
+      <word id="1" form="ὦ" lemma="ὦ" postag="i--------" relation="AuxZ" head="5"/>
+      <word id="2" form="γλώσσης" lemma="γλῶσσα" postag="n-s---fg-" relation="ATR" head="4"/>
+      <word id="3" form="ἀληθῶς" lemma="ἀληθής" postag="a--------" relation="ADV" head="5"/>
+      <word id="4" form="νόσημα" lemma="νόσημα" postag="n-s---nn-" relation="PNOM" head="5"/>
+      <word id="5" form="Ταῦ" lemma="ταῦ" postag="x-----n--" relation="ExD" head="7"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="7" insertion_id="0005e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
+   </sentence>
+</treebank>

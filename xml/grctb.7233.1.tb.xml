@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="aldt"
+          direction="ltr"
+          version="1.5">
+   <date>2018-12-26 17:29:01 UTC</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>Petar Soldo</short>
+      <name>Petar Soldo</name>
+      <address>petar.stjepan.soldo@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/Petar%20Soldo</uri>
+  </annotator>
+   <sentence id="1" document_id="" subdoc="" span="">
+      <word id="1" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="2" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="6"/>
+      <word id="3" form="μέν" lemma="μέν" postag="d--------" relation="AuxY" head="10"/>
+      <word id="4" form="τι" lemma="τις" postag="p-s---na-" relation="OBJ" head="6"/>
+      <word id="5" form="καλὸν" lemma="καλός" postag="a-s---na-" relation="ATR" head="4"/>
+      <word id="6" form="ἰδὼν" lemma="εἶδον" postag="v-sapamn-" relation="SBJ" head="10"/>
+      <word id="7" form="καλὸν" lemma="καλός" postag="a-s---na-" relation="PNOM" head="8"/>
+      <word id="8" form="εἰπεῖν" lemma="εἶπον" postag="v--ana---" relation="OBJ" head="10"/>
+      <word id="9" form="αὐτὸ" lemma="αὐτός" postag="p-s---na-" relation="OBJ" head="8"/>
+      <word id="10" form="βούλεται" lemma="βούλομαι" postag="v3spie---" relation="PRED_CO" head="13"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" head="10"/>
+      <word id="12" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="SBJ" head="18"/>
+      <word id="13" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" head="1"/>
+      <word id="14" form="παρεισπεσὸν" lemma="παρεισπίπτω" postag="v-sapann-" relation="ADV" head="18"/>
+      <word id="15" form="ταλὸν" lemma="ταλὸν" postag="x--------" relation="OBJ" head="16"/>
+      <word id="16" form="εἰπεῖν" lemma="εἶπον" postag="v--ana---" relation="OBJ" head="18"/>
+      <word id="17" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="18"/>
+      <word id="18" form="ἀναγκάζει" lemma="ἀναγκάζω" postag="v3spia---" relation="PRED_CO" head="13"/>
+      <word id="19" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="21"/>
+      <word id="20" form="ἅπασι" lemma="ἅπας" postag="a-p---md-" relation="ATR" head="19"/>
+      <word id="21" form="προεδρίαν" lemma="προεδρία" postag="n-s---fa-" relation="OBJ" head="22"/>
+      <word id="22" form="ἔχειν" lemma="ἔχω" postag="v--pna---" relation="OBJ" head="23"/>
+      <word id="23" form="ἀξιοῦν" lemma="ἀξιόω" postag="v-sppamv-" relation="ADV" head="18"/>
+      <word id="24" form=":" lemma="punc1" postag="" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
