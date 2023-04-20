@@ -1,0 +1,3712 @@
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+    <language lnum="L1" xml:lang="grc"/>
+    <language lnum="L2" xml:lang="hrv"/>
+    <sentence n="1">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Καὶ</text>
+            </w>
+            <w n="1-2">
+                <text>τῇ</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-3">
+                <text>ἡμέρᾳ</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-4">
+                <text>τῇ</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-5">
+                <text>τρίτῃ</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>γάμος</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>ἐγένετο</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-8">
+                <text>ἐν</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>Κανὰ</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>τῆς</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-11">
+                <text>Γαλιλαίας</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-12">
+                <text>,</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-13">
+                <text>καὶ</text>
+            </w>
+            <w n="1-14">
+                <text>ἦν</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="1-15">
+                <text>ἡ</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="1-16">
+                <text>μήτηρ</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="1-17">
+                <text>τοῦ</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="1-18">
+                <text>Ἰησοῦ</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="1-19">
+                <text>ἐκεῖ</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="1-20">
+                <text>·</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-1">
+                <text>ἐκλήθη</text>
+                <refs nrefs="3-3 3-4"/>
+            </w>
+            <w n="2-2">
+                <text>δὲ</text>
+            </w>
+            <w n="2-3">
+                <text>καὶ</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="2-4">
+                <text>ὁ</text>
+                <refs nrefs="3-6"/>
+            </w>
+            <w n="2-5">
+                <text>Ἰησοῦς</text>
+                <refs nrefs="3-6"/>
+            </w>
+            <w n="2-6">
+                <text>καὶ</text>
+                <refs nrefs="3-7"/>
+            </w>
+            <w n="2-7">
+                <text>οἱ</text>
+                <refs nrefs="3-9"/>
+            </w>
+            <w n="2-8">
+                <text>μαθηταὶ</text>
+                <refs nrefs="3-9"/>
+            </w>
+            <w n="2-9">
+                <text>αὐτοῦ</text>
+                <refs nrefs="3-8"/>
+            </w>
+            <w n="2-10">
+                <text>εἰς</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="2-11">
+                <text>τὸν</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="2-12">
+                <text>γάμον</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="2-13">
+                <text>.</text>
+                <refs nrefs="3-10"/>
+            </w>
+            <w n="3-1">
+                <text>καὶ</text>
+            </w>
+            <w n="3-2">
+                <text>ὑστερήσαντος</text>
+                <refs nrefs="4-1 4-2"/>
+            </w>
+            <w n="3-3">
+                <text>οἴνου</text>
+                <refs nrefs="4-3"/>
+            </w>
+            <w n="3-4">
+                <text>λέγει</text>
+                <refs nrefs="4-6"/>
+            </w>
+            <w n="3-5">
+                <text>ἡ</text>
+                <refs nrefs="4-8"/>
+            </w>
+            <w n="3-6">
+                <text>μήτηρ</text>
+                <refs nrefs="4-8"/>
+            </w>
+            <w n="3-7">
+                <text>τοῦ</text>
+            </w>
+            <w n="3-8">
+                <text>Ἰησοῦ</text>
+            </w>
+            <w n="3-9">
+                <text>πρὸς</text>
+            </w>
+            <w n="3-10">
+                <text>αὐτόν</text>
+            </w>
+            <w n="3-11">
+                <text>·</text>
+                <refs nrefs="4-9"/>
+            </w>
+            <w n="4-1">
+                <text>οἶνον</text>
+                <refs nrefs="5-1"/>
+            </w>
+            <w n="4-2">
+                <text>οὐκ</text>
+                <refs nrefs="5-2"/>
+            </w>
+            <w n="4-3">
+                <text>ἔχουσιν</text>
+                <refs nrefs="5-2"/>
+            </w>
+            <w n="4-4">
+                <text>.</text>
+                <refs nrefs="5-3"/>
+            </w>
+            <w n="5-1">
+                <text>[</text>
+            </w>
+            <w n="5-2">
+                <text>καὶ</text>
+            </w>
+            <w n="5-3">
+                <text>]</text>
+            </w>
+            <w n="5-4">
+                <text>λέγει</text>
+                <refs nrefs="6-2"/>
+            </w>
+            <w n="5-5">
+                <text>αὐτῇ</text>
+                <refs nrefs="6-3"/>
+            </w>
+            <w n="5-6">
+                <text>ὁ</text>
+                <refs nrefs="6-4"/>
+            </w>
+            <w n="5-7">
+                <text>Ἰησοῦς</text>
+                <refs nrefs="6-4"/>
+            </w>
+            <w n="5-8">
+                <text>·</text>
+                <refs nrefs="6-5"/>
+            </w>
+            <w n="6-1">
+                <text>τί</text>
+                <refs nrefs="7-3 7-4 7-5 7-6 7-7"/>
+            </w>
+            <w n="6-2">
+                <text>ἐμοὶ</text>
+                <refs nrefs="7-3 7-4 7-5 7-6 7-7"/>
+            </w>
+            <w n="6-3">
+                <text>καὶ</text>
+                <refs nrefs="7-3 7-4 7-5 7-6 7-7"/>
+            </w>
+            <w n="6-4">
+                <text>σοί</text>
+                <refs nrefs="7-3 7-4 7-5 7-6 7-7"/>
+            </w>
+            <w n="6-5">
+                <text>,</text>
+            </w>
+            <w n="6-6">
+                <text>γύναι;</text>
+                <refs nrefs="7-1 7-2 7-8"/>
+            </w>
+            <w n="6-7">
+                <text>οὔπω</text>
+                <refs nrefs="8-1 8-2 8-3"/>
+            </w>
+            <w n="6-8">
+                <text>ἥκει</text>
+                <refs nrefs="8-1 8-2 8-3"/>
+            </w>
+            <w n="6-9">
+                <text>ἡ</text>
+            </w>
+            <w n="6-10">
+                <text>ὥρα</text>
+                <refs nrefs="8-5"/>
+            </w>
+            <w n="6-11">
+                <text>μου</text>
+                <refs nrefs="8-4"/>
+            </w>
+            <w n="6-12">
+                <text>.</text>
+                <refs nrefs="8-6"/>
+            </w>
+            <w n="7-1">
+                <text>λέγει</text>
+                <refs nrefs="9-3"/>
+            </w>
+            <w n="7-2">
+                <text>ἡ</text>
+                <refs nrefs="9-5"/>
+            </w>
+            <w n="7-3">
+                <text>μήτηρ</text>
+                <refs nrefs="9-5"/>
+            </w>
+            <w n="7-4">
+                <text>αὐτοῦ</text>
+                <refs nrefs="9-4"/>
+            </w>
+            <w n="7-5">
+                <text>τοῖς</text>
+                <refs nrefs="9-6"/>
+            </w>
+            <w n="7-6">
+                <text>διακόνοις</text>
+                <refs nrefs="9-6"/>
+            </w>
+            <w n="7-7">
+                <text>·</text>
+                <refs nrefs="9-7"/>
+            </w>
+            <w n="8-1">
+                <text>ὅ</text>
+                <refs nrefs="10-1 10-2"/>
+            </w>
+            <w n="8-2">
+                <text>τι</text>
+                <refs nrefs="10-1 10-2"/>
+            </w>
+            <w n="8-3">
+                <text>ἂν</text>
+                <refs nrefs="10-4"/>
+            </w>
+            <w n="8-4">
+                <text>λέγῃ</text>
+                <refs nrefs="10-4"/>
+            </w>
+            <w n="8-5">
+                <text>ὑμῖν</text>
+                <refs nrefs="10-3"/>
+            </w>
+            <w n="8-6">
+                <text>ποιήσατε</text>
+                <refs nrefs="10-6"/>
+            </w>
+            <w n="8-7">
+                <text>.</text>
+                <refs nrefs="10-7"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Svadba</text>
+            </w>
+            <w n="1-2">
+                <text>u</text>
+            </w>
+            <w n="1-3">
+                <text>Kani</text>
+            </w>
+            <w n="1-4">
+                <text>Trećeg</text>
+                <refs nrefs="1-4 1-5"/>
+            </w>
+            <w n="1-5">
+                <text>dana</text>
+                <refs nrefs="1-2 1-3"/>
+            </w>
+            <w n="1-6">
+                <text>bijaše</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>svadba</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-8">
+                <text>u</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-9">
+                <text>Kani</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>Galilejskoj</text>
+                <refs nrefs="1-10 1-11"/>
+            </w>
+            <w n="1-11">
+                <text>.</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="2-1">
+                <text>Bila</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="2-2">
+                <text>ondje</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="2-3">
+                <text>Isusova</text>
+                <refs nrefs="1-17 1-18"/>
+            </w>
+            <w n="2-4">
+                <text>majka</text>
+                <refs nrefs="1-15 1-16"/>
+            </w>
+            <w n="2-5">
+                <text>.</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="3-1">
+                <text>Na</text>
+                <refs nrefs="2-10"/>
+            </w>
+            <w n="3-2">
+                <text>svadbu</text>
+                <refs nrefs="2-11 2-12"/>
+            </w>
+            <w n="3-3">
+                <text>bijaše</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="3-4">
+                <text>pozvan</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="3-5">
+                <text>i</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="3-6">
+                <text>Isus</text>
+                <refs nrefs="2-4 2-5"/>
+            </w>
+            <w n="3-7">
+                <text>i</text>
+                <refs nrefs="2-6"/>
+            </w>
+            <w n="3-8">
+                <text>njegovi</text>
+                <refs nrefs="2-9"/>
+            </w>
+            <w n="3-9">
+                <text>učenici</text>
+                <refs nrefs="2-7 2-8"/>
+            </w>
+            <w n="3-10">
+                <text>.</text>
+                <refs nrefs="2-13"/>
+            </w>
+            <w n="4-1">
+                <text>Kad</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="4-2">
+                <text>ponesta</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="4-3">
+                <text>vina</text>
+                <refs nrefs="3-3"/>
+            </w>
+            <w n="4-4">
+                <text>,</text>
+            </w>
+            <w n="4-5">
+                <text>Isusu</text>
+            </w>
+            <w n="4-6">
+                <text>će</text>
+                <refs nrefs="3-4"/>
+            </w>
+            <w n="4-7">
+                <text>njegova</text>
+            </w>
+            <w n="4-8">
+                <text>majka</text>
+                <refs nrefs="3-5 3-6"/>
+            </w>
+            <w n="4-9">
+                <text>:</text>
+                <refs nrefs="3-11"/>
+            </w>
+            <w n="5-1">
+                <text>»Vina</text>
+                <refs nrefs="4-1"/>
+            </w>
+            <w n="5-2">
+                <text>nemaju</text>
+                <refs nrefs="4-2 4-3"/>
+            </w>
+            <w n="5-3">
+                <text>.</text>
+                <refs nrefs="4-4"/>
+            </w>
+            <w n="6-1">
+                <text>«</text>
+            </w>
+            <w n="6-2">
+                <text>Kaže</text>
+                <refs nrefs="5-4"/>
+            </w>
+            <w n="6-3">
+                <text>joj</text>
+                <refs nrefs="5-5"/>
+            </w>
+            <w n="6-4">
+                <text>Isus</text>
+                <refs nrefs="5-6 5-7"/>
+            </w>
+            <w n="6-5">
+                <text>:</text>
+                <refs nrefs="5-8"/>
+            </w>
+            <w n="7-1">
+                <text>»Ženo</text>
+                <refs nrefs="6-6"/>
+            </w>
+            <w n="7-2">
+                <text>,</text>
+                <refs nrefs="6-6"/>
+            </w>
+            <w n="7-3">
+                <text>što</text>
+                <refs nrefs="6-1 6-2 6-3 6-4"/>
+            </w>
+            <w n="7-4">
+                <text>ja</text>
+                <refs nrefs="6-1 6-2 6-3 6-4"/>
+            </w>
+            <w n="7-5">
+                <text>imam</text>
+                <refs nrefs="6-1 6-2 6-3 6-4"/>
+            </w>
+            <w n="7-6">
+                <text>s</text>
+                <refs nrefs="6-1 6-2 6-3 6-4"/>
+            </w>
+            <w n="7-7">
+                <text>tobom</text>
+                <refs nrefs="6-1 6-2 6-3 6-4"/>
+            </w>
+            <w n="7-8">
+                <text>?</text>
+                <refs nrefs="6-6"/>
+            </w>
+            <w n="8-1">
+                <text>Još</text>
+                <refs nrefs="6-7 6-8"/>
+            </w>
+            <w n="8-2">
+                <text>nije</text>
+                <refs nrefs="6-7 6-8"/>
+            </w>
+            <w n="8-3">
+                <text>došao</text>
+                <refs nrefs="6-7 6-8"/>
+            </w>
+            <w n="8-4">
+                <text>moj</text>
+                <refs nrefs="6-11"/>
+            </w>
+            <w n="8-5">
+                <text>čas</text>
+                <refs nrefs="6-10"/>
+            </w>
+            <w n="8-6">
+                <text>!</text>
+                <refs nrefs="6-12"/>
+            </w>
+            <w n="9-1">
+                <text>«</text>
+            </w>
+            <w n="9-2">
+                <text>Nato</text>
+            </w>
+            <w n="9-3">
+                <text>će</text>
+                <refs nrefs="7-1"/>
+            </w>
+            <w n="9-4">
+                <text>njegova</text>
+                <refs nrefs="7-4"/>
+            </w>
+            <w n="9-5">
+                <text>mati</text>
+                <refs nrefs="7-2 7-3"/>
+            </w>
+            <w n="9-6">
+                <text>poslužiteljima</text>
+                <refs nrefs="7-5 7-6"/>
+            </w>
+            <w n="9-7">
+                <text>:</text>
+                <refs nrefs="7-7"/>
+            </w>
+            <w n="10-1">
+                <text>»Što</text>
+                <refs nrefs="8-1 8-2"/>
+            </w>
+            <w n="10-2">
+                <text>god</text>
+                <refs nrefs="8-1 8-2"/>
+            </w>
+            <w n="10-3">
+                <text>vam</text>
+                <refs nrefs="8-5"/>
+            </w>
+            <w n="10-4">
+                <text>rekne</text>
+                <refs nrefs="8-3 8-4"/>
+            </w>
+            <w n="10-5">
+                <text>,</text>
+            </w>
+            <w n="10-6">
+                <text>učinite</text>
+                <refs nrefs="8-6"/>
+            </w>
+            <w n="10-7">
+                <text>!</text>
+                <refs nrefs="8-7"/>
+            </w>
+            <w n="11-1">
+                <text>«</text>
+            </w>
+        </wds>
+    </sentence>
+    <sentence n="2">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ἦσαν</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>ἐκεῖ</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>λίθιναι</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-5">
+                <text>ὑδρίαι</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-6">
+                <text>ἓξ</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>κατὰ</text>
+                <refs nrefs="1-5 1-6"/>
+            </w>
+            <w n="1-8">
+                <text>τὸν</text>
+                <refs nrefs="1-5 1-6"/>
+            </w>
+            <w n="1-9">
+                <text>καθαρισμὸν</text>
+                <refs nrefs="1-5 1-6"/>
+            </w>
+            <w n="1-10">
+                <text>τῶν</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-11">
+                <text>Ἰουδαίων</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-12">
+                <text>κείμεναι</text>
+            </w>
+            <w n="1-13">
+                <text>,</text>
+            </w>
+            <w n="1-14">
+                <text>χωροῦσαι</text>
+                <refs nrefs="1-10 1-11 1-12 1-13 1-14 1-15"/>
+            </w>
+            <w n="1-15">
+                <text>ἀνὰ</text>
+                <refs nrefs="1-10 1-11 1-12 1-13 1-14 1-15"/>
+            </w>
+            <w n="1-16">
+                <text>μετρητὰς</text>
+                <refs nrefs="1-10 1-11 1-12 1-13 1-14 1-15"/>
+            </w>
+            <w n="1-17">
+                <text>δύο</text>
+                <refs nrefs="1-10 1-11 1-12 1-13 1-14 1-15"/>
+            </w>
+            <w n="1-18">
+                <text>ἢ</text>
+                <refs nrefs="1-10 1-11 1-12 1-13 1-14 1-15"/>
+            </w>
+            <w n="1-19">
+                <text>τρεῖς</text>
+                <refs nrefs="1-10 1-11 1-12 1-13 1-14 1-15"/>
+            </w>
+            <w n="1-20">
+                <text>.</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="2-1">
+                <text>λέγει</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-2">
+                <text>αὐτοῖς</text>
+            </w>
+            <w n="2-3">
+                <text>ὁ</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="2-4">
+                <text>Ἰησοῦς</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="2-5">
+                <text>·</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="3-1">
+                <text>γεμίσατε</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="3-2">
+                <text>τὰς</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="3-3">
+                <text>ὑδρίας</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="3-4">
+                <text>ὕδατος</text>
+                <refs nrefs="3-3"/>
+            </w>
+            <w n="3-5">
+                <text>.</text>
+                <refs nrefs="3-4"/>
+            </w>
+            <w n="4-1">
+                <text>καὶ</text>
+                <refs nrefs="4-2"/>
+            </w>
+            <w n="4-2">
+                <text>ἐγέμισαν</text>
+                <refs nrefs="4-3"/>
+            </w>
+            <w n="4-3">
+                <text>αὐτὰς</text>
+                <refs nrefs="4-4"/>
+            </w>
+            <w n="4-4">
+                <text>ἕως</text>
+                <refs nrefs="4-5 4-6"/>
+            </w>
+            <w n="4-5">
+                <text>ἄνω</text>
+                <refs nrefs="4-5 4-6"/>
+            </w>
+            <w n="4-6">
+                <text>.</text>
+                <refs nrefs="4-7"/>
+            </w>
+            <w n="5-1">
+                <text>καὶ</text>
+            </w>
+            <w n="5-2">
+                <text>λέγει</text>
+                <refs nrefs="5-3"/>
+            </w>
+            <w n="5-3">
+                <text>αὐτοῖς</text>
+                <refs nrefs="5-2"/>
+            </w>
+            <w n="5-4">
+                <text>·</text>
+                <refs nrefs="5-4"/>
+            </w>
+            <w n="6-1">
+                <text>ἀντλήσατε</text>
+                <refs nrefs="6-1"/>
+            </w>
+            <w n="6-2">
+                <text>νῦν</text>
+                <refs nrefs="6-2"/>
+            </w>
+            <w n="6-3">
+                <text>καὶ</text>
+                <refs nrefs="6-3"/>
+            </w>
+            <w n="6-4">
+                <text>φέρετε</text>
+                <refs nrefs="6-4"/>
+            </w>
+            <w n="6-5">
+                <text>τῷ</text>
+                <refs nrefs="6-5 6-6"/>
+            </w>
+            <w n="6-6">
+                <text>ἀρχιτρικλίνῳ</text>
+                <refs nrefs="6-5 6-6"/>
+            </w>
+            <w n="6-7">
+                <text>·</text>
+                <refs nrefs="6-7"/>
+            </w>
+            <w n="7-1">
+                <text>οἱ</text>
+                <refs nrefs="7-2"/>
+            </w>
+            <w n="7-2">
+                <text>δὲ</text>
+            </w>
+            <w n="7-3">
+                <text>ἤνεγκαν</text>
+                <refs nrefs="7-3"/>
+            </w>
+            <w n="7-4">
+                <text>.</text>
+                <refs nrefs="7-4"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>A</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-2">
+                <text>bijaše</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>ondje</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>Židovima</text>
+                <refs nrefs="1-10 1-11"/>
+            </w>
+            <w n="1-5">
+                <text>za</text>
+                <refs nrefs="1-7 1-8 1-9"/>
+            </w>
+            <w n="1-6">
+                <text>čišćenje</text>
+                <refs nrefs="1-7 1-8 1-9"/>
+            </w>
+            <w n="1-7">
+                <text>šest</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-8">
+                <text>kamenih</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-9">
+                <text>posuda</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-10">
+                <text>od</text>
+                <refs nrefs="1-14 1-15 1-16 1-17 1-18 1-19"/>
+            </w>
+            <w n="1-11">
+                <text>po</text>
+                <refs nrefs="1-14 1-15 1-16 1-17 1-18 1-19"/>
+            </w>
+            <w n="1-12">
+                <text>dvije</text>
+                <refs nrefs="1-14 1-15 1-16 1-17 1-18 1-19"/>
+            </w>
+            <w n="1-13">
+                <text>do</text>
+                <refs nrefs="1-14 1-15 1-16 1-17 1-18 1-19"/>
+            </w>
+            <w n="1-14">
+                <text>tri</text>
+                <refs nrefs="1-14 1-15 1-16 1-17 1-18 1-19"/>
+            </w>
+            <w n="1-15">
+                <text>mjere</text>
+                <refs nrefs="1-14 1-15 1-16 1-17 1-18 1-19"/>
+            </w>
+            <w n="1-16">
+                <text>.</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="2-1">
+                <text>Kaže</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-2">
+                <text>Isus</text>
+                <refs nrefs="2-3 2-4"/>
+            </w>
+            <w n="2-3">
+                <text>poslužiteljima</text>
+            </w>
+            <w n="2-4">
+                <text>:</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="3-1">
+                <text>»Napunite</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="3-2">
+                <text>posude</text>
+                <refs nrefs="3-2 3-3"/>
+            </w>
+            <w n="3-3">
+                <text>vodom</text>
+                <refs nrefs="3-4"/>
+            </w>
+            <w n="3-4">
+                <text>!</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="4-1">
+                <text>«</text>
+            </w>
+            <w n="4-2">
+                <text>I</text>
+                <refs nrefs="4-1"/>
+            </w>
+            <w n="4-3">
+                <text>napune</text>
+                <refs nrefs="4-2"/>
+            </w>
+            <w n="4-4">
+                <text>ih</text>
+                <refs nrefs="4-3"/>
+            </w>
+            <w n="4-5">
+                <text>do</text>
+                <refs nrefs="4-4 4-5"/>
+            </w>
+            <w n="4-6">
+                <text>vrha</text>
+                <refs nrefs="4-4 4-5"/>
+            </w>
+            <w n="4-7">
+                <text>.</text>
+                <refs nrefs="4-6"/>
+            </w>
+            <w n="5-1">
+                <text>Tada</text>
+            </w>
+            <w n="5-2">
+                <text>im</text>
+                <refs nrefs="5-3"/>
+            </w>
+            <w n="5-3">
+                <text>reče</text>
+                <refs nrefs="5-2"/>
+            </w>
+            <w n="5-4">
+                <text>:</text>
+                <refs nrefs="5-4"/>
+            </w>
+            <w n="6-1">
+                <text>»Zagrabite</text>
+                <refs nrefs="6-1"/>
+            </w>
+            <w n="6-2">
+                <text>sada</text>
+                <refs nrefs="6-2"/>
+            </w>
+            <w n="6-3">
+                <text>i</text>
+                <refs nrefs="6-3"/>
+            </w>
+            <w n="6-4">
+                <text>nosite</text>
+                <refs nrefs="6-4"/>
+            </w>
+            <w n="6-5">
+                <text>ravnatelju</text>
+                <refs nrefs="6-5 6-6"/>
+            </w>
+            <w n="6-6">
+                <text>stola</text>
+                <refs nrefs="6-5 6-6"/>
+            </w>
+            <w n="6-7">
+                <text>.</text>
+                <refs nrefs="6-7"/>
+            </w>
+            <w n="7-1">
+                <text>«</text>
+            </w>
+            <w n="7-2">
+                <text>Oni</text>
+                <refs nrefs="7-1"/>
+            </w>
+            <w n="7-3">
+                <text>odnesu</text>
+                <refs nrefs="7-3"/>
+            </w>
+            <w n="7-4">
+                <text>.</text>
+                <refs nrefs="7-4"/>
+            </w>
+        </wds>
+    </sentence>
+    <sentence n="3">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ὡς</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>δὲ</text>
+            </w>
+            <w n="1-3">
+                <text>ἐγεύσατο</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>ὁ</text>
+                <refs nrefs="1-21 1-22"/>
+            </w>
+            <w n="1-5">
+                <text>ἀρχιτρίκλινος</text>
+                <refs nrefs="1-21 1-22"/>
+            </w>
+            <w n="1-6">
+                <text>τὸ</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-7">
+                <text>ὕδωρ</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-8">
+                <text>οἶνον</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-9">
+                <text>γεγενημένον</text>
+                <refs nrefs="1-4 1-5"/>
+            </w>
+            <w n="1-10">
+                <text>καὶ</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-11">
+                <text>οὐκ</text>
+                <refs nrefs="1-9 1-10"/>
+            </w>
+            <w n="1-12">
+                <text>ᾔδει</text>
+                <refs nrefs="1-9 1-10"/>
+            </w>
+            <w n="1-13">
+                <text>πόθεν</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-14">
+                <text>ἐστίν</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-15">
+                <text>,</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-16">
+                <text>οἱ</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-17">
+                <text>δὲ</text>
+            </w>
+            <w n="1-18">
+                <text>διάκονοι</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-19">
+                <text>ᾔδεισαν</text>
+                <refs nrefs="1-14 1-15"/>
+            </w>
+            <w n="1-20">
+                <text>οἱ</text>
+                <refs nrefs="1-17 1-18"/>
+            </w>
+            <w n="1-21">
+                <text>ἠντληκότες</text>
+                <refs nrefs="1-17 1-18"/>
+            </w>
+            <w n="1-22">
+                <text>τὸ</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-23">
+                <text>ὕδωρ</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-24">
+                <text>,</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-25">
+                <text>φωνεῖ</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="1-26">
+                <text>τὸν</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-27">
+                <text>νυμφίον</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-28">
+                <text>ὁ</text>
+                <refs nrefs="1-21 1-22"/>
+            </w>
+            <w n="1-29">
+                <text>ἀρχιτρίκλινος</text>
+                <refs nrefs="1-21 1-22"/>
+            </w>
+            <w n="1-30">
+                <text>καὶ</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-31">
+                <text>λέγει</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="1-32">
+                <text>αὐτῷ</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="1-33">
+                <text>·</text>
+                <refs nrefs="1-28"/>
+            </w>
+            <w n="2-1">
+                <text>πᾶς</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-2">
+                <text>ἄνθρωπος</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="2-3">
+                <text>πρῶτον</text>
+                <refs nrefs="2-6"/>
+            </w>
+            <w n="2-4">
+                <text>τὸν</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="2-5">
+                <text>καλὸν</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="2-6">
+                <text>οἶνον</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="2-7">
+                <text>τίθησιν</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-8">
+                <text>καὶ</text>
+                <refs nrefs="2-10"/>
+            </w>
+            <w n="2-9">
+                <text>ὅταν</text>
+                <refs nrefs="2-11"/>
+            </w>
+            <w n="2-10">
+                <text>μεθυσθῶσιν</text>
+                <refs nrefs="2-12 2-13"/>
+            </w>
+            <w n="2-11">
+                <text>τὸν</text>
+                <refs nrefs="2-15"/>
+            </w>
+            <w n="2-12">
+                <text>ἐλάσσω</text>
+                <refs nrefs="2-15"/>
+            </w>
+            <w n="2-13">
+                <text>·</text>
+                <refs nrefs="2-16"/>
+            </w>
+            <w n="3-1">
+                <text>σὺ</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="3-2">
+                <text>τετήρηκας</text>
+                <refs nrefs="3-2 3-3"/>
+            </w>
+            <w n="3-3">
+                <text>τὸν</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="3-4">
+                <text>καλὸν</text>
+                <refs nrefs="3-4"/>
+            </w>
+            <w n="3-5">
+                <text>οἶνον</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="3-6">
+                <text>ἕως</text>
+                <refs nrefs="3-6 3-7"/>
+            </w>
+            <w n="3-7">
+                <text>ἄρτι</text>
+                <refs nrefs="3-8"/>
+            </w>
+            <w n="3-8">
+                <text>.</text>
+                <refs nrefs="3-9"/>
+            </w>
+            <w n="4-1">
+                <text>Ταύτην</text>
+            </w>
+            <w n="4-2">
+                <text>ἐποίησεν</text>
+                <refs nrefs="4-8"/>
+            </w>
+            <w n="4-3">
+                <text>ἀρχὴν</text>
+                <refs nrefs="4-10 4-11"/>
+            </w>
+            <w n="4-4">
+                <text>τῶν</text>
+                <refs nrefs="4-10 4-11"/>
+            </w>
+            <w n="4-5">
+                <text>σημείων</text>
+                <refs nrefs="4-10 4-11"/>
+            </w>
+            <w n="4-6">
+                <text>ὁ</text>
+                <refs nrefs="4-9"/>
+            </w>
+            <w n="4-7">
+                <text>Ἰησοῦς</text>
+                <refs nrefs="4-9"/>
+            </w>
+            <w n="4-8">
+                <text>ἐν</text>
+                <refs nrefs="4-4"/>
+            </w>
+            <w n="4-9">
+                <text>Κανὰ</text>
+                <refs nrefs="4-5"/>
+            </w>
+            <w n="4-10">
+                <text>τῆς</text>
+                <refs nrefs="4-6"/>
+            </w>
+            <w n="4-11">
+                <text>Γαλιλαίας</text>
+                <refs nrefs="4-6"/>
+            </w>
+            <w n="4-12">
+                <text>καὶ</text>
+                <refs nrefs="4-12"/>
+            </w>
+            <w n="4-13">
+                <text>ἐφανέρωσεν</text>
+                <refs nrefs="4-13"/>
+            </w>
+            <w n="4-14">
+                <text>τὴν</text>
+                <refs nrefs="4-15"/>
+            </w>
+            <w n="4-15">
+                <text>δόξαν</text>
+                <refs nrefs="4-15"/>
+            </w>
+            <w n="4-16">
+                <text>αὐτοῦ</text>
+                <refs nrefs="4-14"/>
+            </w>
+            <w n="4-17">
+                <text>,</text>
+            </w>
+            <w n="4-18">
+                <text>καὶ</text>
+                <refs nrefs="4-16"/>
+            </w>
+            <w n="4-19">
+                <text>ἐπίστευσαν</text>
+                <refs nrefs="4-17"/>
+            </w>
+            <w n="4-20">
+                <text>εἰς</text>
+                <refs nrefs="4-18"/>
+            </w>
+            <w n="4-21">
+                <text>αὐτὸν</text>
+                <refs nrefs="4-19"/>
+            </w>
+            <w n="4-22">
+                <text>οἱ</text>
+                <refs nrefs="4-21"/>
+            </w>
+            <w n="4-23">
+                <text>μαθηταὶ</text>
+                <refs nrefs="4-21"/>
+            </w>
+            <w n="4-24">
+                <text>αὐτοῦ</text>
+                <refs nrefs="4-20"/>
+            </w>
+            <w n="4-25">
+                <text>.</text>
+                <refs nrefs="4-22"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Kad</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>okusi</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>vodu</text>
+                <refs nrefs="1-6 1-7"/>
+            </w>
+            <w n="1-4">
+                <text>što</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-5">
+                <text>posta</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-6">
+                <text>vinom</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-7">
+                <text>,</text>
+            </w>
+            <w n="1-8">
+                <text>a</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-9">
+                <text>nije</text>
+                <refs nrefs="1-11 1-12"/>
+            </w>
+            <w n="1-10">
+                <text>znao</text>
+                <refs nrefs="1-11 1-12"/>
+            </w>
+            <w n="1-11">
+                <text>odakle</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-12">
+                <text>je</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-13">
+                <text>–</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-14">
+                <text>znale</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-15">
+                <text>su</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-16">
+                <text>sluge</text>
+                <refs nrefs="1-16 1-18"/>
+            </w>
+            <w n="1-17">
+                <text>koje</text>
+                <refs nrefs="1-20 1-21"/>
+            </w>
+            <w n="1-18">
+                <text>zagrabiše</text>
+                <refs nrefs="1-20 1-21"/>
+            </w>
+            <w n="1-19">
+                <text>vodu</text>
+                <refs nrefs="1-22 1-23"/>
+            </w>
+            <w n="1-20">
+                <text>–</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="1-21">
+                <text>ravnatelj</text>
+                <refs nrefs="1-4 1-5 1-28 1-29"/>
+            </w>
+            <w n="1-22">
+                <text>stola</text>
+                <refs nrefs="1-4 1-5 1-28 1-29"/>
+            </w>
+            <w n="1-23">
+                <text>pozove</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="1-24">
+                <text>zaručnika</text>
+                <refs nrefs="1-26 1-27"/>
+            </w>
+            <w n="1-25">
+                <text>i</text>
+                <refs nrefs="1-30"/>
+            </w>
+            <w n="1-26">
+                <text>kaže</text>
+                <refs nrefs="1-31"/>
+            </w>
+            <w n="1-27">
+                <text>mu</text>
+                <refs nrefs="1-32"/>
+            </w>
+            <w n="1-28">
+                <text>:</text>
+                <refs nrefs="1-33"/>
+            </w>
+            <w n="2-1">
+                <text>»Svaki</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-2">
+                <text>čovjek</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="2-3">
+                <text>stavlja</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="2-4">
+                <text>na</text>
+            </w>
+            <w n="2-5">
+                <text>stol</text>
+            </w>
+            <w n="2-6">
+                <text>najprije</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-7">
+                <text>dobro</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-8">
+                <text>vino</text>
+                <refs nrefs="2-4 2-6"/>
+            </w>
+            <w n="2-9">
+                <text>,</text>
+            </w>
+            <w n="2-10">
+                <text>a</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="2-11">
+                <text>kad</text>
+                <refs nrefs="2-9"/>
+            </w>
+            <w n="2-12">
+                <text>se</text>
+                <refs nrefs="2-10"/>
+            </w>
+            <w n="2-13">
+                <text>ponapiju</text>
+                <refs nrefs="2-10"/>
+            </w>
+            <w n="2-14">
+                <text>,</text>
+            </w>
+            <w n="2-15">
+                <text>gore</text>
+                <refs nrefs="2-11 2-12"/>
+            </w>
+            <w n="2-16">
+                <text>.</text>
+                <refs nrefs="2-13"/>
+            </w>
+            <w n="3-1">
+                <text>Ti</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="3-2">
+                <text>si</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="3-3">
+                <text>čuvao</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="3-4">
+                <text>dobro</text>
+                <refs nrefs="3-4"/>
+            </w>
+            <w n="3-5">
+                <text>vino</text>
+                <refs nrefs="3-3 3-5"/>
+            </w>
+            <w n="3-6">
+                <text>sve</text>
+                <refs nrefs="3-6"/>
+            </w>
+            <w n="3-7">
+                <text>do</text>
+                <refs nrefs="3-6"/>
+            </w>
+            <w n="3-8">
+                <text>sada</text>
+                <refs nrefs="3-7"/>
+            </w>
+            <w n="3-9">
+                <text>.</text>
+                <refs nrefs="3-8"/>
+            </w>
+            <w n="4-1">
+                <text>«</text>
+            </w>
+            <w n="4-2">
+                <text>Tako</text>
+            </w>
+            <w n="4-3">
+                <text>,</text>
+            </w>
+            <w n="4-4">
+                <text>u</text>
+                <refs nrefs="4-8"/>
+            </w>
+            <w n="4-5">
+                <text>Kani</text>
+                <refs nrefs="4-9"/>
+            </w>
+            <w n="4-6">
+                <text>Galilejskoj</text>
+                <refs nrefs="4-10 4-11"/>
+            </w>
+            <w n="4-7">
+                <text>,</text>
+            </w>
+            <w n="4-8">
+                <text>učini</text>
+                <refs nrefs="4-2"/>
+            </w>
+            <w n="4-9">
+                <text>Isus</text>
+                <refs nrefs="4-6 4-7"/>
+            </w>
+            <w n="4-10">
+                <text>prvo</text>
+                <refs nrefs="4-3 4-4 4-5"/>
+            </w>
+            <w n="4-11">
+                <text>znamenje</text>
+                <refs nrefs="4-3 4-4 4-5"/>
+            </w>
+            <w n="4-12">
+                <text>i</text>
+                <refs nrefs="4-12"/>
+            </w>
+            <w n="4-13">
+                <text>objavi</text>
+                <refs nrefs="4-13"/>
+            </w>
+            <w n="4-14">
+                <text>svoju</text>
+                <refs nrefs="4-16"/>
+            </w>
+            <w n="4-15">
+                <text>slavu</text>
+                <refs nrefs="4-14 4-15"/>
+            </w>
+            <w n="4-16">
+                <text>te</text>
+                <refs nrefs="4-18"/>
+            </w>
+            <w n="4-17">
+                <text>povjerovaše</text>
+                <refs nrefs="4-19"/>
+            </w>
+            <w n="4-18">
+                <text>u</text>
+                <refs nrefs="4-20"/>
+            </w>
+            <w n="4-19">
+                <text>njega</text>
+                <refs nrefs="4-21"/>
+            </w>
+            <w n="4-20">
+                <text>njegovi</text>
+                <refs nrefs="4-24"/>
+            </w>
+            <w n="4-21">
+                <text>učenici</text>
+                <refs nrefs="4-22 4-23"/>
+            </w>
+            <w n="4-22">
+                <text>.</text>
+                <refs nrefs="4-25"/>
+            </w>
+        </wds>
+    </sentence>
+    <sentence n="4">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Μετὰ</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>τοῦτο</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>κατέβη</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>εἰς</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-5">
+                <text>Καφαρναοὺμ</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-6">
+                <text>αὐτὸς</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-7">
+                <text>καὶ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-8">
+                <text>ἡ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-9">
+                <text>μήτηρ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-10">
+                <text>αὐτοῦ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-11">
+                <text>καὶ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-12">
+                <text>οἱ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-13">
+                <text>ἀδελφοὶ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-14">
+                <text>[</text>
+            </w>
+            <w n="1-15">
+                <text>αὐτοῦ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-16">
+                <text>]</text>
+            </w>
+            <w n="1-17">
+                <text>καὶ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-18">
+                <text>οἱ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-19">
+                <text>μαθηταὶ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-20">
+                <text>αὐτοῦ</text>
+                <refs nrefs="1-4 1-5 1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13"/>
+            </w>
+            <w n="1-21">
+                <text>καὶ</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-22">
+                <text>ἐκεῖ</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="1-23">
+                <text>ἔμειναν</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="1-24">
+                <text>οὐ</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="1-25">
+                <text>πολλὰς</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="1-26">
+                <text>ἡμέρας</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="1-27">
+                <text>.</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-1">
+                <text>Καὶ</text>
+            </w>
+            <w n="2-2">
+                <text>ἐγγὺς</text>
+                <refs nrefs="4-5"/>
+            </w>
+            <w n="2-3">
+                <text>ἦν</text>
+                <refs nrefs="4-6"/>
+            </w>
+            <w n="2-4">
+                <text>τὸ</text>
+                <refs nrefs="4-8"/>
+            </w>
+            <w n="2-5">
+                <text>πάσχα</text>
+                <refs nrefs="4-8"/>
+            </w>
+            <w n="2-6">
+                <text>τῶν</text>
+                <refs nrefs="4-7"/>
+            </w>
+            <w n="2-7">
+                <text>Ἰουδαίων</text>
+                <refs nrefs="4-7"/>
+            </w>
+            <w n="2-8">
+                <text>,</text>
+                <refs nrefs="4-9"/>
+            </w>
+            <w n="2-9">
+                <text>καὶ</text>
+                <refs nrefs="5-1"/>
+            </w>
+            <w n="2-10">
+                <text>ἀνέβη</text>
+                <refs nrefs="5-3"/>
+            </w>
+            <w n="2-11">
+                <text>εἰς</text>
+                <refs nrefs="5-4"/>
+            </w>
+            <w n="2-12">
+                <text>Ἱεροσόλυμα</text>
+                <refs nrefs="5-5"/>
+            </w>
+            <w n="2-13">
+                <text>ὁ</text>
+                <refs nrefs="5-2"/>
+            </w>
+            <w n="2-14">
+                <text>Ἰησοῦς</text>
+                <refs nrefs="5-2"/>
+            </w>
+            <w n="2-15">
+                <text>.</text>
+                <refs nrefs="5-6"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Nakon</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>toga</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-3">
+                <text>siđe</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-4">
+                <text>sa</text>
+                <refs nrefs="1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-15 1-17 1-18 1-19 1-20"/>
+            </w>
+            <w n="1-5">
+                <text>svojom</text>
+                <refs nrefs="1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-15 1-17 1-18 1-19 1-20"/>
+            </w>
+            <w n="1-6">
+                <text>majkom</text>
+                <refs nrefs="1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-15 1-17 1-18 1-19 1-20"/>
+            </w>
+            <w n="1-7">
+                <text>,</text>
+                <refs nrefs="1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-15 1-17 1-18 1-19 1-20"/>
+            </w>
+            <w n="1-8">
+                <text>s</text>
+                <refs nrefs="1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-15 1-17 1-18 1-19 1-20"/>
+            </w>
+            <w n="1-9">
+                <text>braćom</text>
+                <refs nrefs="1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-15 1-17 1-18 1-19 1-20"/>
+            </w>
+            <w n="1-10">
+                <text>i</text>
+                <refs nrefs="1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-15 1-17 1-18 1-19 1-20"/>
+            </w>
+            <w n="1-11">
+                <text>sa</text>
+                <refs nrefs="1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-15 1-17 1-18 1-19 1-20"/>
+            </w>
+            <w n="1-12">
+                <text>svojim</text>
+                <refs nrefs="1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-15 1-17 1-18 1-19 1-20"/>
+            </w>
+            <w n="1-13">
+                <text>učenicima</text>
+                <refs nrefs="1-6 1-7 1-8 1-9 1-10 1-11 1-12 1-13 1-15 1-17 1-18 1-19 1-20"/>
+            </w>
+            <w n="1-14">
+                <text>u</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-15">
+                <text>Kafarnaum</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-16">
+                <text>.</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="2-1">
+                <text>Ondje</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="2-2">
+                <text>ostadoše</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="2-3">
+                <text>nekoliko</text>
+                <refs nrefs="1-24 1-25"/>
+            </w>
+            <w n="2-4">
+                <text>dana</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="2-5">
+                <text>.</text>
+                <refs nrefs="1-27"/>
+            </w>
+            <w n="3-1">
+                <text>2</text>
+            </w>
+            <w n="3-2">
+                <text>.</text>
+            </w>
+            <w n="4-1">
+                <text>BLAGDAN</text>
+            </w>
+            <w n="4-2">
+                <text>PASHE</text>
+            </w>
+            <w n="4-3">
+                <text>Čišćenje</text>
+            </w>
+            <w n="4-4">
+                <text>Hrama</text>
+            </w>
+            <w n="4-5">
+                <text>Blizu</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="4-6">
+                <text>bijaše</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="4-7">
+                <text>židovska</text>
+                <refs nrefs="2-6 2-7"/>
+            </w>
+            <w n="4-8">
+                <text>Pasha</text>
+                <refs nrefs="2-4 2-5"/>
+            </w>
+            <w n="4-9">
+                <text>.</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="5-1">
+                <text>Stoga</text>
+                <refs nrefs="2-9"/>
+            </w>
+            <w n="5-2">
+                <text>Isus</text>
+                <refs nrefs="2-13 2-14"/>
+            </w>
+            <w n="5-3">
+                <text>uziđe</text>
+                <refs nrefs="2-10"/>
+            </w>
+            <w n="5-4">
+                <text>u</text>
+                <refs nrefs="2-11"/>
+            </w>
+            <w n="5-5">
+                <text>Jeruzalem</text>
+                <refs nrefs="2-12"/>
+            </w>
+            <w n="5-6">
+                <text>.</text>
+                <refs nrefs="2-15"/>
+            </w>
+        </wds>
+    </sentence>
+     <sentence n="5">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Καὶ</text>
+            </w>
+            <w n="1-2">
+                <text>εὗρεν</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>ἐν</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-4">
+                <text>τῷ</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-5">
+                <text>ἱερῷ</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-6">
+                <text>τοὺς</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-7">
+                <text>πωλοῦντας</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-8">
+                <text>βόας</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-9">
+                <text>καὶ</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-10">
+                <text>πρόβατα</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-11">
+                <text>καὶ</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-12">
+                <text>περιστερὰς</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-13">
+                <text>καὶ</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-14">
+                <text>τοὺς</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-15">
+                <text>κερματιστὰς</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-16">
+                <text>καθημένους</text>
+                <refs nrefs="1-12 1-13"/>
+            </w>
+            <w n="1-17">
+                <text>,</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-18">
+                <text>καὶ</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="1-19">
+                <text>ποιήσας</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="1-20">
+                <text>φραγέλλιον</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="1-21">
+                <text>ἐκ</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="1-22">
+                <text>σχοινίων</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="1-23">
+                <text>πάντας</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="1-24">
+                <text>ἐξέβαλεν</text>
+                <refs nrefs="2-9"/>
+            </w>
+            <w n="1-25">
+                <text>ἐκ</text>
+                <refs nrefs="2-10"/>
+            </w>
+            <w n="1-26">
+                <text>τοῦ</text>
+                <refs nrefs="2-11"/>
+            </w>
+            <w n="1-27">
+                <text>ἱεροῦ</text>
+                <refs nrefs="2-11"/>
+            </w>
+            <w n="1-28">
+                <text>τά</text>
+                <refs nrefs="2-14"/>
+            </w>
+            <w n="1-29">
+                <text>τε</text>
+            </w>
+            <w n="1-30">
+                <text>πρόβατα</text>
+                <refs nrefs="2-14"/>
+            </w>
+            <w n="1-31">
+                <text>καὶ</text>
+                <refs nrefs="2-15"/>
+            </w>
+            <w n="1-32">
+                <text>τοὺς</text>
+                <refs nrefs="2-16"/>
+            </w>
+            <w n="1-33">
+                <text>βόας</text>
+                <refs nrefs="2-16"/>
+            </w>
+            <w n="1-34">
+                <text>,</text>
+                <refs nrefs="2-17"/>
+            </w>
+            <w n="1-35">
+                <text>καὶ</text>
+            </w>
+            <w n="1-36">
+                <text>τῶν</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="1-37">
+                <text>κολλυβιστῶν</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="1-38">
+                <text>ἐξέχεεν</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="1-39">
+                <text>τὸ</text>
+                <refs nrefs="3-3"/>
+            </w>
+            <w n="1-40">
+                <text>κέρμα</text>
+                <refs nrefs="3-3"/>
+            </w>
+            <w n="1-41">
+                <text>καὶ</text>
+                <refs nrefs="3-4"/>
+            </w>
+            <w n="1-42">
+                <text>τὰς</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="1-43">
+                <text>τραπέζας</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="1-44">
+                <text>ἀνέτρεψεν</text>
+                <refs nrefs="3-6"/>
+            </w>
+            <w n="1-45">
+                <text>,</text>
+                <refs nrefs="3-7"/>
+            </w>
+            <w n="1-46">
+                <text>καὶ</text>
+                <refs nrefs="3-8"/>
+            </w>
+            <w n="1-47">
+                <text>τοῖς</text>
+                <refs nrefs="3-9"/>
+            </w>
+            <w n="1-48">
+                <text>τὰς</text>
+                <refs nrefs="3-10"/>
+            </w>
+            <w n="1-49">
+                <text>περιστερὰς</text>
+                <refs nrefs="3-10"/>
+            </w>
+            <w n="1-50">
+                <text>πωλοῦσιν</text>
+                <refs nrefs="3-9"/>
+            </w>
+            <w n="1-51">
+                <text>εἶπεν</text>
+                <refs nrefs="3-11"/>
+            </w>
+            <w n="1-52">
+                <text>·</text>
+                <refs nrefs="3-12"/>
+            </w>
+            <w n="2-1">
+                <text>ἄρατε</text>
+                <refs nrefs="4-1"/>
+            </w>
+            <w n="2-2">
+                <text>ταῦτα</text>
+                <refs nrefs="4-2"/>
+            </w>
+            <w n="2-3">
+                <text>ἐντεῦθεν</text>
+                <refs nrefs="4-3"/>
+            </w>
+            <w n="2-4">
+                <text>,</text>
+                <refs nrefs="4-4"/>
+            </w>
+            <w n="2-5">
+                <text>μὴ</text>
+                <refs nrefs="4-5"/>
+            </w>
+            <w n="2-6">
+                <text>ποιεῖτε</text>
+                <refs nrefs="4-6"/>
+            </w>
+            <w n="2-7">
+                <text>τὸν</text>
+                <refs nrefs="4-7 4-8"/>
+            </w>
+            <w n="2-8">
+                <text>οἶκον</text>
+                <refs nrefs="4-7 4-8"/>
+            </w>
+            <w n="2-9">
+                <text>τοῦ</text>
+                <refs nrefs="4-9"/>
+            </w>
+            <w n="2-10">
+                <text>πατρός</text>
+                <refs nrefs="4-9"/>
+            </w>
+            <w n="2-11">
+                <text>μου</text>
+                <refs nrefs="4-10"/>
+            </w>
+            <w n="2-12">
+                <text>οἶκον</text>
+                <refs nrefs="4-11"/>
+            </w>
+            <w n="2-13">
+                <text>ἐμπορίου</text>
+                <refs nrefs="4-12"/>
+            </w>
+            <w n="2-14">
+                <text>.</text>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>U</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-2">
+                <text>Hramu</text>
+                <refs nrefs="1-4 1-5"/>
+            </w>
+            <w n="1-3">
+                <text>nađe</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>prodavače</text>
+                <refs nrefs="1-6 1-7"/>
+            </w>
+            <w n="1-5">
+                <text>volova</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-6">
+                <text>,</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-7">
+                <text>ovaca</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-8">
+                <text>i</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-9">
+                <text>golubova</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-10">
+                <text>i</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-11">
+                <text>mjenjače</text>
+                <refs nrefs="1-14 1-15"/>
+            </w>
+            <w n="1-12">
+                <text>gdje</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-13">
+                <text>sjede</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-14">
+                <text>.</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="2-1">
+                <text>I</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="2-2">
+                <text>načini</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="2-3">
+                <text>bič</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="2-4">
+                <text>od</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="2-5">
+                <text>užetâ</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="2-6">
+                <text>te</text>
+            </w>
+            <w n="2-7">
+                <text>ih</text>
+            </w>
+            <w n="2-8">
+                <text>sve</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="2-9">
+                <text>istjera</text>
+                <refs nrefs="1-24"/>
+            </w>
+            <w n="2-10">
+                <text>iz</text>
+                <refs nrefs="1-25"/>
+            </w>
+            <w n="2-11">
+                <text>Hrama</text>
+                <refs nrefs="1-26 1-27"/>
+            </w>
+            <w n="2-12">
+                <text>zajedno</text>
+            </w>
+            <w n="2-13">
+                <text>s</text>
+            </w>
+            <w n="2-14">
+                <text>ovcama</text>
+                <refs nrefs="1-28 1-30"/>
+            </w>
+            <w n="2-15">
+                <text>i</text>
+                <refs nrefs="1-31"/>
+            </w>
+            <w n="2-16">
+                <text>volovima</text>
+                <refs nrefs="1-32 1-33"/>
+            </w>
+            <w n="2-17">
+                <text>.</text>
+                <refs nrefs="1-34"/>
+            </w>
+            <w n="3-1">
+                <text>Mjenjačima</text>
+                <refs nrefs="1-36 1-37"/>
+            </w>
+            <w n="3-2">
+                <text>rasu</text>
+                <refs nrefs="1-38"/>
+            </w>
+            <w n="3-3">
+                <text>novac</text>
+                <refs nrefs="1-39 1-40"/>
+            </w>
+            <w n="3-4">
+                <text>i</text>
+                <refs nrefs="1-41"/>
+            </w>
+            <w n="3-5">
+                <text>stolove</text>
+                <refs nrefs="1-42 1-43"/>
+            </w>
+            <w n="3-6">
+                <text>isprevrta</text>
+                <refs nrefs="1-44"/>
+            </w>
+            <w n="3-7">
+                <text>,</text>
+                <refs nrefs="1-45"/>
+            </w>
+            <w n="3-8">
+                <text>a</text>
+                <refs nrefs="1-46"/>
+            </w>
+            <w n="3-9">
+                <text>prodavačima</text>
+                <refs nrefs="1-47 1-50"/>
+            </w>
+            <w n="3-10">
+                <text>golubova</text>
+                <refs nrefs="1-48 1-49"/>
+            </w>
+            <w n="3-11">
+                <text>reče</text>
+                <refs nrefs="1-51"/>
+            </w>
+            <w n="3-12">
+                <text>:</text>
+                <refs nrefs="1-52"/>
+            </w>
+            <w n="4-1">
+                <text>»Nosite</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="4-2">
+                <text>to</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="4-3">
+                <text>odavde</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="4-4">
+                <text>i</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="4-5">
+                <text>ne</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="4-6">
+                <text>činite</text>
+                <refs nrefs="2-6"/>
+            </w>
+            <w n="4-7">
+                <text>od</text>
+                <refs nrefs="2-7 2-8"/>
+            </w>
+            <w n="4-8">
+                <text>kuće</text>
+                <refs nrefs="2-7 2-8"/>
+            </w>
+            <w n="4-9">
+                <text>Oca</text>
+                <refs nrefs="2-9 2-10"/>
+            </w>
+            <w n="4-10">
+                <text>mojega</text>
+                <refs nrefs="2-11"/>
+            </w>
+            <w n="4-11">
+                <text>kuću</text>
+                <refs nrefs="2-12"/>
+            </w>
+            <w n="4-12">
+                <text>trgovačku</text>
+                <refs nrefs="2-13"/>
+            </w>
+            <w n="4-13">
+                <text>.</text>
+            </w>
+            <w n="5-1">
+                <text>«</text>
+            </w>
+        </wds>
+    </sentence>
+     <sentence n="6">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ἐμνήσθησαν</text>
+                <refs nrefs="1-1 1-2"/>
+            </w>
+            <w n="1-2">
+                <text>οἱ</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-3">
+                <text>μαθηταὶ</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>αὐτοῦ</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>ὅτι</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>γεγραμμένον</text>
+                <refs nrefs="1-6 1-7"/>
+            </w>
+            <w n="1-7">
+                <text>ἐστίν</text>
+                <refs nrefs="1-6 1-7"/>
+            </w>
+            <w n="1-8">
+                <text>·</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="2-1">
+                <text>ὁ</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-2">
+                <text>ζῆλος</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-3">
+                <text>τοῦ</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="2-4">
+                <text>οἴκου</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-5">
+                <text>σου</text>
+                <refs nrefs="2-6"/>
+            </w>
+            <w n="2-6">
+                <text>καταφάγεταί</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-7">
+                <text>με</text>
+                <refs nrefs="2-2"/>
+            </w>
+            <w n="2-8">
+                <text>.</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="3-1">
+                <text>Ἀπεκρίθησαν</text>
+            </w>
+            <w n="3-2">
+                <text>οὖν</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="3-3">
+                <text>οἱ</text>
+                <refs nrefs="3-4"/>
+            </w>
+            <w n="3-4">
+                <text>Ἰουδαῖοι</text>
+                <refs nrefs="3-4"/>
+            </w>
+            <w n="3-5">
+                <text>καὶ</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="3-6">
+                <text>εἶπαν</text>
+            </w>
+            <w n="3-7">
+                <text>αὐτῷ</text>
+                <refs nrefs="3-7"/>
+            </w>
+            <w n="3-8">
+                <text>·</text>
+                <refs nrefs="3-8"/>
+            </w>
+            <w n="4-1">
+                <text>τί</text>
+                <refs nrefs="4-1"/>
+            </w>
+            <w n="4-2">
+                <text>σημεῖον</text>
+                <refs nrefs="4-3"/>
+            </w>
+            <w n="4-3">
+                <text>δεικνύεις</text>
+                <refs nrefs="4-5"/>
+            </w>
+            <w n="4-4">
+                <text>ἡμῖν</text>
+                <refs nrefs="4-2"/>
+            </w>
+            <w n="4-5">
+                <text>ὅτι</text>
+                <refs nrefs="4-6"/>
+            </w>
+            <w n="4-6">
+                <text>ταῦτα</text>
+                <refs nrefs="4-7"/>
+            </w>
+            <w n="4-7">
+                <text>ποιεῖς;</text>
+                <refs nrefs="4-9 4-10"/>
+            </w>
+            <w n="4-8">
+                <text>ἀπεκρίθη</text>
+                <refs nrefs="5-2"/>
+            </w>
+            <w n="4-9">
+                <text>Ἰησοῦς</text>
+                <refs nrefs="5-4"/>
+            </w>
+            <w n="4-10">
+                <text>καὶ</text>
+            </w>
+            <w n="4-11">
+                <text>εἶπεν</text>
+            </w>
+            <w n="4-12">
+                <text>αὐτοῖς</text>
+                <refs nrefs="5-3"/>
+            </w>
+            <w n="4-13">
+                <text>·</text>
+                <refs nrefs="5-5"/>
+            </w>
+            <w n="5-1">
+                <text>λύσατε</text>
+                <refs nrefs="6-1"/>
+            </w>
+            <w n="5-2">
+                <text>τὸν</text>
+                <refs nrefs="6-3"/>
+            </w>
+            <w n="5-3">
+                <text>ναὸν</text>
+                <refs nrefs="6-3"/>
+            </w>
+            <w n="5-4">
+                <text>τοῦτον</text>
+                <refs nrefs="6-2"/>
+            </w>
+            <w n="5-5">
+                <text>καὶ</text>
+                <refs nrefs="6-4"/>
+            </w>
+            <w n="5-6">
+                <text>ἐν</text>
+                <refs nrefs="6-8"/>
+            </w>
+            <w n="5-7">
+                <text>τρισὶν</text>
+                <refs nrefs="6-9"/>
+            </w>
+            <w n="5-8">
+                <text>ἡμέραις</text>
+                <refs nrefs="6-10"/>
+            </w>
+            <w n="5-9">
+                <text>ἐγερῶ</text>
+                <refs nrefs="6-6 6-11"/>
+            </w>
+            <w n="5-10">
+                <text>αὐτόν</text>
+                <refs nrefs="6-7"/>
+            </w>
+            <w n="5-11">
+                <text>.</text>
+                <refs nrefs="6-12"/>
+            </w>
+            <w n="6-1">
+                <text>εἶπαν</text>
+                <refs nrefs="7-2"/>
+            </w>
+            <w n="6-2">
+                <text>οὖν</text>
+                <refs nrefs="7-4"/>
+            </w>
+            <w n="6-3">
+                <text>οἱ</text>
+                <refs nrefs="7-5 7-6"/>
+            </w>
+            <w n="6-4">
+                <text>Ἰουδαῖοι</text>
+                <refs nrefs="7-5 7-6"/>
+            </w>
+            <w n="6-5">
+                <text>·</text>
+            </w>
+            <w n="7-1">
+                <text>τεσσεράκοντα</text>
+                <refs nrefs="8-1"/>
+            </w>
+            <w n="7-2">
+                <text>καὶ</text>
+                <refs nrefs="8-2"/>
+            </w>
+            <w n="7-3">
+                <text>ἓξ</text>
+                <refs nrefs="8-3"/>
+            </w>
+            <w n="7-4">
+                <text>ἔτεσιν</text>
+                <refs nrefs="8-4"/>
+            </w>
+            <w n="7-5">
+                <text>οἰκοδομήθη</text>
+                <refs nrefs="8-5 8-6"/>
+            </w>
+            <w n="7-6">
+                <text>ὁ</text>
+                <refs nrefs="8-8"/>
+            </w>
+            <w n="7-7">
+                <text>ναὸς</text>
+                <refs nrefs="8-8"/>
+            </w>
+            <w n="7-8">
+                <text>οὗτος</text>
+                <refs nrefs="8-7"/>
+            </w>
+            <w n="7-9">
+                <text>,</text>
+                <refs nrefs="8-9"/>
+            </w>
+            <w n="7-10">
+                <text>καὶ</text>
+                <refs nrefs="8-10"/>
+            </w>
+            <w n="7-11">
+                <text>σὺ</text>
+                <refs nrefs="8-11"/>
+            </w>
+            <w n="7-12">
+                <text>ἐν</text>
+                <refs nrefs="8-15"/>
+            </w>
+            <w n="7-13">
+                <text>τρισὶν</text>
+                <refs nrefs="8-16"/>
+            </w>
+            <w n="7-14">
+                <text>ἡμέραις</text>
+                <refs nrefs="8-17"/>
+            </w>
+            <w n="7-15">
+                <text>ἐγερεῖς</text>
+                <refs nrefs="8-13 8-18"/>
+            </w>
+            <w n="7-16">
+                <text>αὐτόν;</text>
+                <refs nrefs="8-14"/>
+            </w>
+            <w n="7-17">
+                <text>ἐκεῖνος</text>
+                <refs nrefs="9-4"/>
+            </w>
+            <w n="7-18">
+                <text>δὲ</text>
+                <refs nrefs="9-3"/>
+            </w>
+            <w n="7-19">
+                <text>ἔλεγεν</text>
+                <refs nrefs="9-5 9-6"/>
+            </w>
+            <w n="7-20">
+                <text>περὶ</text>
+                <refs nrefs="9-7"/>
+            </w>
+            <w n="7-21">
+                <text>τοῦ</text>
+                <refs nrefs="9-8"/>
+            </w>
+            <w n="7-22">
+                <text>ναοῦ</text>
+                <refs nrefs="9-8"/>
+            </w>
+            <w n="7-23">
+                <text>τοῦ</text>
+                <refs nrefs="9-10"/>
+            </w>
+            <w n="7-24">
+                <text>σώματος</text>
+                <refs nrefs="9-10"/>
+            </w>
+            <w n="7-25">
+                <text>αὐτοῦ</text>
+                <refs nrefs="9-9"/>
+            </w>
+            <w n="7-26">
+                <text>.</text>
+                <refs nrefs="9-11"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Prisjetiše</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>se</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-3">
+                <text>njegovi</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>učenici</text>
+                <refs nrefs="1-2 1-3"/>
+            </w>
+            <w n="1-5">
+                <text>da</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-6">
+                <text>je</text>
+                <refs nrefs="1-6 1-7"/>
+            </w>
+            <w n="1-7">
+                <text>pisano</text>
+                <refs nrefs="1-6 1-7"/>
+            </w>
+            <w n="1-8">
+                <text>:</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="2-1">
+                <text>Izjeda</text>
+                <refs nrefs="2-6"/>
+            </w>
+            <w n="2-2">
+                <text>me</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="2-3">
+                <text>revnost</text>
+                <refs nrefs="2-1 2-2"/>
+            </w>
+            <w n="2-4">
+                <text>za</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-5">
+                <text>Dom</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="2-6">
+                <text>tvoj</text>
+                <refs nrefs="2-5"/>
+            </w>
+            <w n="2-7">
+                <text>.</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="3-1">
+                <text>Nato</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="3-2">
+                <text>se</text>
+            </w>
+            <w n="3-3">
+                <text>umiješaju</text>
+            </w>
+            <w n="3-4">
+                <text>Židovi</text>
+                <refs nrefs="3-3 3-4"/>
+            </w>
+            <w n="3-5">
+                <text>i</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="3-6">
+                <text>upitaju</text>
+            </w>
+            <w n="3-7">
+                <text>ga</text>
+                <refs nrefs="3-7"/>
+            </w>
+            <w n="3-8">
+                <text>:</text>
+                <refs nrefs="3-8"/>
+            </w>
+            <w n="4-1">
+                <text>»Koje</text>
+                <refs nrefs="4-1"/>
+            </w>
+            <w n="4-2">
+                <text>nam</text>
+                <refs nrefs="4-4"/>
+            </w>
+            <w n="4-3">
+                <text>znamenje</text>
+                <refs nrefs="4-2"/>
+            </w>
+            <w n="4-4">
+                <text>možeš</text>
+            </w>
+            <w n="4-5">
+                <text>pokazati</text>
+                <refs nrefs="4-3"/>
+            </w>
+            <w n="4-6">
+                <text>da</text>
+                <refs nrefs="4-5"/>
+            </w>
+            <w n="4-7">
+                <text>to</text>
+                <refs nrefs="4-6"/>
+            </w>
+            <w n="4-8">
+                <text>smiješ</text>
+            </w>
+            <w n="4-9">
+                <text>činiti</text>
+                <refs nrefs="4-7"/>
+            </w>
+            <w n="4-10">
+                <text>?</text>
+                <refs nrefs="4-7"/>
+            </w>
+            <w n="5-1">
+                <text>«</text>
+            </w>
+            <w n="5-2">
+                <text>Odgovori</text>
+                <refs nrefs="4-8"/>
+            </w>
+            <w n="5-3">
+                <text>im</text>
+                <refs nrefs="4-12"/>
+            </w>
+            <w n="5-4">
+                <text>Isus</text>
+                <refs nrefs="4-9"/>
+            </w>
+            <w n="5-5">
+                <text>:</text>
+                <refs nrefs="4-13"/>
+            </w>
+            <w n="6-1">
+                <text>»Razvalite</text>
+                <refs nrefs="5-1"/>
+            </w>
+            <w n="6-2">
+                <text>ovaj</text>
+                <refs nrefs="5-4"/>
+            </w>
+            <w n="6-3">
+                <text>hram</text>
+                <refs nrefs="5-2 5-3"/>
+            </w>
+            <w n="6-4">
+                <text>i</text>
+                <refs nrefs="5-5"/>
+            </w>
+            <w n="6-5">
+                <text>ja</text>
+            </w>
+            <w n="6-6">
+                <text>ću</text>
+                <refs nrefs="5-9"/>
+            </w>
+            <w n="6-7">
+                <text>ga</text>
+                <refs nrefs="5-10"/>
+            </w>
+            <w n="6-8">
+                <text>u</text>
+                <refs nrefs="5-6"/>
+            </w>
+            <w n="6-9">
+                <text>tri</text>
+                <refs nrefs="5-7"/>
+            </w>
+            <w n="6-10">
+                <text>dana</text>
+                <refs nrefs="5-8"/>
+            </w>
+            <w n="6-11">
+                <text>podići</text>
+                <refs nrefs="5-9"/>
+            </w>
+            <w n="6-12">
+                <text>.</text>
+                <refs nrefs="5-11"/>
+            </w>
+            <w n="7-1">
+                <text>«</text>
+            </w>
+            <w n="7-2">
+                <text>Rekoše</text>
+                <refs nrefs="6-1"/>
+            </w>
+            <w n="7-3">
+                <text>mu</text>
+            </w>
+            <w n="7-4">
+                <text>nato</text>
+                <refs nrefs="6-2"/>
+            </w>
+            <w n="7-5">
+                <text>Židovi</text>
+                <refs nrefs="6-3 6-4"/>
+            </w>
+            <w n="7-6">
+                <text>:</text>
+                <refs nrefs="6-3 6-4"/>
+            </w>
+            <w n="8-1">
+                <text>»Četrdeset</text>
+                <refs nrefs="7-1"/>
+            </w>
+            <w n="8-2">
+                <text>i</text>
+                <refs nrefs="7-2"/>
+            </w>
+            <w n="8-3">
+                <text>šest</text>
+                <refs nrefs="7-3"/>
+            </w>
+            <w n="8-4">
+                <text>godina</text>
+                <refs nrefs="7-4"/>
+            </w>
+            <w n="8-5">
+                <text>gradio</text>
+                <refs nrefs="7-5"/>
+            </w>
+            <w n="8-6">
+                <text>se</text>
+                <refs nrefs="7-5"/>
+            </w>
+            <w n="8-7">
+                <text>ovaj</text>
+                <refs nrefs="7-8"/>
+            </w>
+            <w n="8-8">
+                <text>Hram</text>
+                <refs nrefs="7-6 7-7"/>
+            </w>
+            <w n="8-9">
+                <text>,</text>
+                <refs nrefs="7-9"/>
+            </w>
+            <w n="8-10">
+                <text>a</text>
+                <refs nrefs="7-10"/>
+            </w>
+            <w n="8-11">
+                <text>ti</text>
+                <refs nrefs="7-11"/>
+            </w>
+            <w n="8-12">
+                <text>da</text>
+            </w>
+            <w n="8-13">
+                <text>ćeš</text>
+                <refs nrefs="7-15"/>
+            </w>
+            <w n="8-14">
+                <text>ga</text>
+                <refs nrefs="7-16"/>
+            </w>
+            <w n="8-15">
+                <text>u</text>
+                <refs nrefs="7-12"/>
+            </w>
+            <w n="8-16">
+                <text>tri</text>
+                <refs nrefs="7-13"/>
+            </w>
+            <w n="8-17">
+                <text>dana</text>
+                <refs nrefs="7-14"/>
+            </w>
+            <w n="8-18">
+                <text>podići</text>
+                <refs nrefs="7-15"/>
+            </w>
+            <w n="8-19">
+                <text>?</text>
+            </w>
+            <w n="9-1">
+                <text>«</text>
+            </w>
+            <w n="9-2">
+                <text>No</text>
+                <refs nrefs="7-18"/>
+            </w>
+            <w n="9-3">
+                <text>on</text>
+                <refs nrefs="7-17"/>
+            </w>
+            <w n="9-4">
+                <text>je</text>
+                <refs nrefs="7-19"/>
+            </w>
+            <w n="9-5">
+                <text>govorio</text>
+                <refs nrefs="7-19"/>
+            </w>
+            <w n="9-6">
+                <text>o</text>
+                <refs nrefs="7-20"/>
+            </w>
+            <w n="9-7">
+                <text>hramu</text>
+                <refs nrefs="7-21 7-22"/>
+            </w>
+            <w n="9-8">
+                <text>svoga</text>
+                <refs nrefs="7-25"/>
+            </w>
+            <w n="9-9">
+                <text>tijela</text>
+                <refs nrefs="7-23 7-24"/>
+            </w>
+            <w n="9-10">
+                <text>.</text>
+                <refs nrefs="7-26"/>
+            </w>
+        </wds>
+    </sentence>
+      <sentence n="7">
+        <wds lnum="L1">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>ὅτε</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>οὖν</text>
+            </w>
+            <w n="1-3">
+                <text>ἠγέρθη</text>
+                <refs nrefs="1-2"/>
+            </w>
+            <w n="1-4">
+                <text>ἐκ</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-5">
+                <text>νεκρῶν</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-6">
+                <text>,</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-7">
+                <text>ἐμνήσθησαν</text>
+                <refs nrefs="1-6 1-7"/>
+            </w>
+            <w n="1-8">
+                <text>οἱ</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-9">
+                <text>μαθηταὶ</text>
+                <refs nrefs="1-9"/>
+            </w>
+            <w n="1-10">
+                <text>αὐτοῦ</text>
+                <refs nrefs="1-8"/>
+            </w>
+            <w n="1-11">
+                <text>ὅτι</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-12">
+                <text>τοῦτο</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-13">
+                <text>ἔλεγεν</text>
+                <refs nrefs="1-14"/>
+            </w>
+            <w n="1-14">
+                <text>,</text>
+            </w>
+            <w n="1-15">
+                <text>καὶ</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-16">
+                <text>ἐπίστευσαν</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-17">
+                <text>τῇ</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-18">
+                <text>γραφῇ</text>
+                <refs nrefs="1-17"/>
+            </w>
+            <w n="1-19">
+                <text>καὶ</text>
+                <refs nrefs="1-18"/>
+            </w>
+            <w n="1-20">
+                <text>τῷ</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-21">
+                <text>λόγῳ</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-22">
+                <text>ὃν</text>
+                <refs nrefs="1-20"/>
+            </w>
+            <w n="1-23">
+                <text>εἶπεν</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="1-24">
+                <text>ὁ</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-25">
+                <text>Ἰησοῦς</text>
+                <refs nrefs="1-21"/>
+            </w>
+            <w n="1-26">
+                <text>.</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="2-1">
+                <text>Ὡς</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="2-2">
+                <text>δὲ</text>
+            </w>
+            <w n="2-3">
+                <text>ἦν</text>
+                <refs nrefs="2-5 2-6"/>
+            </w>
+            <w n="2-4">
+                <text>ἐν</text>
+                <refs nrefs="2-7"/>
+            </w>
+            <w n="2-5">
+                <text>τοῖς</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="2-6">
+                <text>Ἱεροσολύμοις</text>
+                <refs nrefs="2-8"/>
+            </w>
+            <w n="2-7">
+                <text>ἐν</text>
+                <refs nrefs="2-9 2-10 2-11"/>
+            </w>
+            <w n="2-8">
+                <text>τῷ</text>
+                <refs nrefs="2-9 2-10 2-11"/>
+            </w>
+            <w n="2-9">
+                <text>πάσχα</text>
+                <refs nrefs="2-9 2-10 2-11"/>
+            </w>
+            <w n="2-10">
+                <text>ἐν</text>
+                <refs nrefs="2-9 2-10 2-11"/>
+            </w>
+            <w n="2-11">
+                <text>τῇ</text>
+                <refs nrefs="2-9 2-10 2-11"/>
+            </w>
+            <w n="2-12">
+                <text>ἑορτῇ</text>
+                <refs nrefs="2-9 2-10 2-11"/>
+            </w>
+            <w n="2-13">
+                <text>,</text>
+                <refs nrefs="2-12"/>
+            </w>
+            <w n="2-14">
+                <text>πολλοὶ</text>
+                <refs nrefs="2-13"/>
+            </w>
+            <w n="2-15">
+                <text>ἐπίστευσαν</text>
+                <refs nrefs="2-14"/>
+            </w>
+            <w n="2-16">
+                <text>εἰς</text>
+                <refs nrefs="2-15"/>
+            </w>
+            <w n="2-17">
+                <text>τὸ</text>
+                <refs nrefs="2-17"/>
+            </w>
+            <w n="2-18">
+                <text>ὄνομα</text>
+                <refs nrefs="2-17"/>
+            </w>
+            <w n="2-19">
+                <text>αὐτοῦ</text>
+                <refs nrefs="2-16"/>
+            </w>
+            <w n="2-20">
+                <text>θεωροῦντες</text>
+                <refs nrefs="2-18"/>
+            </w>
+            <w n="2-21">
+                <text>αὐτοῦ</text>
+            </w>
+            <w n="2-22">
+                <text>τὰ</text>
+                <refs nrefs="2-19"/>
+            </w>
+            <w n="2-23">
+                <text>σημεῖα</text>
+                <refs nrefs="2-19"/>
+            </w>
+            <w n="2-24">
+                <text>ἃ</text>
+                <refs nrefs="2-20"/>
+            </w>
+            <w n="2-25">
+                <text>ἐποίει</text>
+                <refs nrefs="2-21 2-22"/>
+            </w>
+            <w n="2-26">
+                <text>·</text>
+                <refs nrefs="2-23"/>
+            </w>
+            <w n="3-1">
+                <text>αὐτὸς</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="3-2">
+                <text>δὲ</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="3-3">
+                <text>Ἰησοῦς</text>
+                <refs nrefs="3-4"/>
+            </w>
+            <w n="3-4">
+                <text>οὐκ</text>
+                <refs nrefs="3-3 3-6 3-7"/>
+            </w>
+            <w n="3-5">
+                <text>ἐπίστευεν</text>
+                <refs nrefs="3-3 3-6 3-7"/>
+            </w>
+            <w n="3-6">
+                <text>αὐτὸν</text>
+                <refs nrefs="3-3 3-6 3-7"/>
+            </w>
+            <w n="3-7">
+                <text>αὐτοῖς</text>
+                <refs nrefs="3-5"/>
+            </w>
+            <w n="3-8">
+                <text>διὰ</text>
+                <refs nrefs="3-8 3-10 3-13 3-14 3-15 3-16"/>
+            </w>
+            <w n="3-9">
+                <text>τὸ</text>
+                <refs nrefs="3-8 3-10 3-13 3-14 3-15 3-16"/>
+            </w>
+            <w n="3-10">
+                <text>αὐτὸν</text>
+                <refs nrefs="3-8 3-10 3-13 3-14 3-15 3-16"/>
+            </w>
+            <w n="3-11">
+                <text>γινώσκειν</text>
+                <refs nrefs="3-8 3-10 3-13 3-14 3-15 3-16"/>
+            </w>
+            <w n="3-12">
+                <text>πάντας</text>
+                <refs nrefs="3-11"/>
+            </w>
+            <w n="3-13">
+                <text>καὶ</text>
+                <refs nrefs="3-8 3-10 3-13 3-14 3-15 3-16"/>
+            </w>
+            <w n="3-14">
+                <text>ὅτι</text>
+            </w>
+            <w n="3-15">
+                <text>οὐ</text>
+                <refs nrefs="3-8 3-10 3-13 3-14 3-15 3-16"/>
+            </w>
+            <w n="3-16">
+                <text>χρείαν</text>
+                <refs nrefs="3-8 3-10 3-13 3-14 3-15 3-16"/>
+            </w>
+            <w n="3-17">
+                <text>εἶχεν</text>
+                <refs nrefs="3-8 3-10 3-13 3-14 3-15 3-16"/>
+            </w>
+            <w n="3-18">
+                <text>ἵνα</text>
+                <refs nrefs="3-17"/>
+            </w>
+            <w n="3-19">
+                <text>τις</text>
+                <refs nrefs="3-19"/>
+            </w>
+            <w n="3-20">
+                <text>μαρτυρήσῃ</text>
+                <refs nrefs="3-20 3-21"/>
+            </w>
+            <w n="3-21">
+                <text>περὶ</text>
+                <refs nrefs="3-22"/>
+            </w>
+            <w n="3-22">
+                <text>τοῦ</text>
+                <refs nrefs="3-23"/>
+            </w>
+            <w n="3-23">
+                <text>ἀνθρώπου</text>
+                <refs nrefs="3-23"/>
+            </w>
+            <w n="3-24">
+                <text>·</text>
+                <refs nrefs="3-24"/>
+            </w>
+            <w n="4-1">
+                <text>αὐτὸς</text>
+                <refs nrefs="4-2"/>
+            </w>
+            <w n="4-2">
+                <text>γὰρ</text>
+                <refs nrefs="4-1"/>
+            </w>
+            <w n="4-3">
+                <text>ἐγίνωσκεν</text>
+                <refs nrefs="4-3 4-5"/>
+            </w>
+            <w n="4-4">
+                <text>τί</text>
+                <refs nrefs="4-6"/>
+            </w>
+            <w n="4-5">
+                <text>ἦν</text>
+                <refs nrefs="4-7"/>
+            </w>
+            <w n="4-6">
+                <text>ἐν</text>
+                <refs nrefs="4-8"/>
+            </w>
+            <w n="4-7">
+                <text>τῷ</text>
+                <refs nrefs="4-9"/>
+            </w>
+            <w n="4-8">
+                <text>ἀνθρώπῳ</text>
+                <refs nrefs="4-9"/>
+            </w>
+            <w n="4-9">
+                <text>.</text>
+                <refs nrefs="4-10"/>
+            </w>
+        </wds>
+        <wds lnum="L2">
+            <comment class="uri"/>
+            <w n="1-1">
+                <text>Pošto</text>
+                <refs nrefs="1-1"/>
+            </w>
+            <w n="1-2">
+                <text>uskrsnu</text>
+                <refs nrefs="1-3"/>
+            </w>
+            <w n="1-3">
+                <text>od</text>
+                <refs nrefs="1-4"/>
+            </w>
+            <w n="1-4">
+                <text>mrtvih</text>
+                <refs nrefs="1-5"/>
+            </w>
+            <w n="1-5">
+                <text>,</text>
+                <refs nrefs="1-6"/>
+            </w>
+            <w n="1-6">
+                <text>prisjetiše</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-7">
+                <text>se</text>
+                <refs nrefs="1-7"/>
+            </w>
+            <w n="1-8">
+                <text>njegovi</text>
+                <refs nrefs="1-10"/>
+            </w>
+            <w n="1-9">
+                <text>učenici</text>
+                <refs nrefs="1-8 1-9"/>
+            </w>
+            <w n="1-10">
+                <text>da</text>
+                <refs nrefs="1-11"/>
+            </w>
+            <w n="1-11">
+                <text>je</text>
+            </w>
+            <w n="1-12">
+                <text>to</text>
+                <refs nrefs="1-12"/>
+            </w>
+            <w n="1-13">
+                <text>htio</text>
+            </w>
+            <w n="1-14">
+                <text>reći</text>
+                <refs nrefs="1-13"/>
+            </w>
+            <w n="1-15">
+                <text>te</text>
+                <refs nrefs="1-15"/>
+            </w>
+            <w n="1-16">
+                <text>povjerovaše</text>
+                <refs nrefs="1-16"/>
+            </w>
+            <w n="1-17">
+                <text>Pismu</text>
+                <refs nrefs="1-17 1-18"/>
+            </w>
+            <w n="1-18">
+                <text>i</text>
+                <refs nrefs="1-19"/>
+            </w>
+            <w n="1-19">
+                <text>besjedi</text>
+                <refs nrefs="1-20 1-21"/>
+            </w>
+            <w n="1-20">
+                <text>koju</text>
+                <refs nrefs="1-22"/>
+            </w>
+            <w n="1-21">
+                <text>Isus</text>
+                <refs nrefs="1-24 1-25"/>
+            </w>
+            <w n="1-22">
+                <text>reče</text>
+                <refs nrefs="1-23"/>
+            </w>
+            <w n="1-23">
+                <text>.</text>
+                <refs nrefs="1-26"/>
+            </w>
+            <w n="2-1">
+                <text>Boravak</text>
+            </w>
+            <w n="2-2">
+                <text>u</text>
+            </w>
+            <w n="2-3">
+                <text>Jeruzalemu</text>
+            </w>
+            <w n="2-4">
+                <text>Dok</text>
+                <refs nrefs="2-1"/>
+            </w>
+            <w n="2-5">
+                <text>je</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-6">
+                <text>boravio</text>
+                <refs nrefs="2-3"/>
+            </w>
+            <w n="2-7">
+                <text>u</text>
+                <refs nrefs="2-4"/>
+            </w>
+            <w n="2-8">
+                <text>Jeruzalemu</text>
+                <refs nrefs="2-5 2-6"/>
+            </w>
+            <w n="2-9">
+                <text>o</text>
+                <refs nrefs="2-7 2-8 2-9 2-10 2-11 2-12"/>
+            </w>
+            <w n="2-10">
+                <text>blagdanu</text>
+                <refs nrefs="2-7 2-8 2-9 2-10 2-11 2-12"/>
+            </w>
+            <w n="2-11">
+                <text>Pashe</text>
+                <refs nrefs="2-7 2-8 2-9 2-10 2-11 2-12"/>
+            </w>
+            <w n="2-12">
+                <text>,</text>
+                <refs nrefs="2-13"/>
+            </w>
+            <w n="2-13">
+                <text>mnogi</text>
+                <refs nrefs="2-14"/>
+            </w>
+            <w n="2-14">
+                <text>povjerovaše</text>
+                <refs nrefs="2-15"/>
+            </w>
+            <w n="2-15">
+                <text>u</text>
+                <refs nrefs="2-16"/>
+            </w>
+            <w n="2-16">
+                <text>njegovo</text>
+                <refs nrefs="2-19"/>
+            </w>
+            <w n="2-17">
+                <text>ime</text>
+                <refs nrefs="2-17 2-18"/>
+            </w>
+            <w n="2-18">
+                <text>promatrajući</text>
+                <refs nrefs="2-20"/>
+            </w>
+            <w n="2-19">
+                <text>znamenja</text>
+                <refs nrefs="2-22 2-23"/>
+            </w>
+            <w n="2-20">
+                <text>koja</text>
+                <refs nrefs="2-24"/>
+            </w>
+            <w n="2-21">
+                <text>je</text>
+                <refs nrefs="2-25"/>
+            </w>
+            <w n="2-22">
+                <text>činio</text>
+                <refs nrefs="2-25"/>
+            </w>
+            <w n="2-23">
+                <text>.</text>
+                <refs nrefs="2-26"/>
+            </w>
+            <w n="3-1">
+                <text>No</text>
+                <refs nrefs="3-2"/>
+            </w>
+            <w n="3-2">
+                <text>sâm</text>
+                <refs nrefs="3-1"/>
+            </w>
+            <w n="3-3">
+                <text>se</text>
+                <refs nrefs="3-4 3-5 3-6"/>
+            </w>
+            <w n="3-4">
+                <text>Isus</text>
+                <refs nrefs="3-3"/>
+            </w>
+            <w n="3-5">
+                <text>njima</text>
+                <refs nrefs="3-7"/>
+            </w>
+            <w n="3-6">
+                <text>nije</text>
+                <refs nrefs="3-4 3-5 3-6"/>
+            </w>
+            <w n="3-7">
+                <text>povjeravao</text>
+                <refs nrefs="3-4 3-5 3-6"/>
+            </w>
+            <w n="3-8">
+                <text>jer</text>
+                <refs nrefs="3-8 3-9 3-10 3-11 3-13 3-15 3-16 3-17"/>
+            </w>
+            <w n="3-9">
+                <text>ih</text>
+            </w>
+            <w n="3-10">
+                <text>je</text>
+                <refs nrefs="3-8 3-9 3-10 3-11 3-13 3-15 3-16 3-17"/>
+            </w>
+            <w n="3-11">
+                <text>sve</text>
+                <refs nrefs="3-12"/>
+            </w>
+            <w n="3-12">
+                <text>dobro</text>
+            </w>
+            <w n="3-13">
+                <text>poznavao</text>
+                <refs nrefs="3-8 3-9 3-10 3-11 3-13 3-15 3-16 3-17"/>
+            </w>
+            <w n="3-14">
+                <text>i</text>
+                <refs nrefs="3-8 3-9 3-10 3-11 3-13 3-15 3-16 3-17"/>
+            </w>
+            <w n="3-15">
+                <text>nije</text>
+                <refs nrefs="3-8 3-9 3-10 3-11 3-13 3-15 3-16 3-17"/>
+            </w>
+            <w n="3-16">
+                <text>trebalo</text>
+                <refs nrefs="3-8 3-9 3-10 3-11 3-13 3-15 3-16 3-17"/>
+            </w>
+            <w n="3-17">
+                <text>da</text>
+                <refs nrefs="3-18"/>
+            </w>
+            <w n="3-18">
+                <text>mu</text>
+            </w>
+            <w n="3-19">
+                <text>tko</text>
+                <refs nrefs="3-19"/>
+            </w>
+            <w n="3-20">
+                <text>daje</text>
+                <refs nrefs="3-20"/>
+            </w>
+            <w n="3-21">
+                <text>svjedočanstvo</text>
+                <refs nrefs="3-20"/>
+            </w>
+            <w n="3-22">
+                <text>o</text>
+                <refs nrefs="3-21"/>
+            </w>
+            <w n="3-23">
+                <text>čovjeku</text>
+                <refs nrefs="3-22 3-23"/>
+            </w>
+            <w n="3-24">
+                <text>:</text>
+                <refs nrefs="3-24"/>
+            </w>
+            <w n="4-1">
+                <text>ta</text>
+                <refs nrefs="4-2"/>
+            </w>
+            <w n="4-2">
+                <text>sam</text>
+                <refs nrefs="4-1"/>
+            </w>
+            <w n="4-3">
+                <text>je</text>
+                <refs nrefs="4-3"/>
+            </w>
+            <w n="4-4">
+                <text>dobro</text>
+            </w>
+            <w n="4-5">
+                <text>znao</text>
+                <refs nrefs="4-3"/>
+            </w>
+            <w n="4-6">
+                <text>što</text>
+                <refs nrefs="4-4"/>
+            </w>
+            <w n="4-7">
+                <text>je</text>
+                <refs nrefs="4-5"/>
+            </w>
+            <w n="4-8">
+                <text>u</text>
+                <refs nrefs="4-6"/>
+            </w>
+            <w n="4-9">
+                <text>čovjeku</text>
+                <refs nrefs="4-7 4-8"/>
+            </w>
+            <w n="4-10">
+                <text>.</text>
+                <refs nrefs="4-9"/>
+            </w>
+        </wds>
+    </sentence>
+</aligned-text>
