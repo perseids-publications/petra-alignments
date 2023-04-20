@@ -1,13 +1,14 @@
 {
   "title": "Alignments by Petra Matović",
-  "subtitle": "[subtitle]",
+  "subtitle": "\\[subitle\\]",
   "copyright": "Petra Matović",
+  "twitter": "",
   "report": "https://github.com/perseids-publications/petra-alignments/issues",
   "github": "https://github.com/perseids-publications/petra-alignments/",
   "collections": [
     {
       "title": "[section title] (optional)",
-      "text": "[section explanation] (optional)"
+      "text": "\\[section explanation\\] (optional)"
     },
     {
       "title": "Collection 1",
