@@ -1,33 +1,29 @@
 {
-  "title": "Alignments by Petra Matović",
-  "subtitle": "\\[subitle\\]",
+  "title": "Dvojezični korpus Novoga zavjeta",
+  "subtitle": "urednica: Petra Matović",
   "copyright": "Petra Matović",
   "twitter": "",
   "report": "https://github.com/perseids-publications/petra-alignments/issues",
   "github": "https://github.com/perseids-publications/petra-alignments/",
   "collections": [
     {
-      "title": "[section title] (optional)",
-      "text": "\\[section explanation\\] (optional)"
-    },
-    {
-      "title": "New Testament",
+      "title": "Novi zavjet",
       "publications": [
         {
           "path": "mark",
-          "author": "Mark",
-          "work": "The Gospel of Mark",
+          "author": "Marko",
+          "work": "Evanđelje po Marku",
           "editors": "Petra Matović",
           "sections": [
             {
-              "locus": "Chapter 1",
+              "locus": "1. Poglavlje",
               "path": "mark-1",
               "xml": "mark-1.xml",
               "type": "alignment",
               "chunks": { "start": 1, "end": 45 }
             },
             {
-              "locus": "Chapter 2",
+              "locus": "2. Poglavlje",
               "path": "mark-2",
               "xml": "mark-2.xml",
               "type": "alignment",
@@ -37,19 +33,19 @@
         },
         {
           "path": "john",
-          "author": "John",
-          "work": "The Gospel of John",
+          "author": "Ivan",
+          "work": "Evanđelje po Ivanu",
           "editors": "Petra Matović",
           "sections": [
             {
-              "locus": "Chapter 1",
+              "locus": "1. Poglavlje",
               "path": "john-1",
-              "xml": "mark-1.xml",
+              "xml": "john-1.xml",
               "type": "alignment",
               "chunks": { "start": 1, "end": 17 }
             },
             {
-              "locus": "Chapter 2",
+              "locus": "2. Poglavlje",
               "path": "john-2",
               "xml": "john-2.xml",
               "type": "alignment",
