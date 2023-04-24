@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/petra-alignments/static/css/main.5c67adbc.chunk.css",
-    "main.js": "/petra-alignments/static/js/main.e57db732.chunk.js",
-    "main.js.map": "/petra-alignments/static/js/main.e57db732.chunk.js.map",
+    "main.js": "/petra-alignments/static/js/main.07fb6e1f.chunk.js",
+    "main.js.map": "/petra-alignments/static/js/main.07fb6e1f.chunk.js.map",
     "runtime-main.js": "/petra-alignments/static/js/runtime-main.a776bc94.js",
     "runtime-main.js.map": "/petra-alignments/static/js/runtime-main.a776bc94.js.map",
     "static/css/2.4e5ca7f1.chunk.css": "/petra-alignments/static/css/2.4e5ca7f1.chunk.css",
@@ -55,6 +55,6 @@
     "static/css/2.4e5ca7f1.chunk.css",
     "static/js/2.4c370f78.chunk.js",
     "static/css/main.5c67adbc.chunk.css",
-    "static/js/main.e57db732.chunk.js"
+    "static/js/main.07fb6e1f.chunk.js"
   ]
 }
