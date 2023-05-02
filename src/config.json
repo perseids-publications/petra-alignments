@@ -28,6 +28,13 @@
               "xml": "mark-2.xml",
               "type": "alignment",
               "chunks": { "start": 1, "end": 28 }
+            },
+            {
+              "locus": "3. Poglavlje",
+              "path": "mark-3",
+              "xml": "mark-3.xml",
+              "type": "alignment",
+              "chunks": { "start": 1, "end": 35 }
             }
           ]
         },
